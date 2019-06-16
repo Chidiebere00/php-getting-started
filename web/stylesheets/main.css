@@ -34,3 +34,79 @@
 .jumbotron .lang-logo img {
   max-width: 100%;
 }
+body {
+     background-color: lightblue;
+     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+     font-weight: 300;
+     margin: 0;
+ }
+
+.wrapper {
+
+
+    z-index: 2;
+}
+
+#header {
+    text-align: Center;
+    background-color: black;
+    color: #fff;
+    padding: 0.25rem;
+}
+
+#container p{
+
+    margin: 0 3rem;
+    z-index: 2;
+    font-size: 20px;
+}
+#container p1{
+    line-height: 27px;
+    font-size: 40px;
+
+}
+
+
+
+
+.menu {
+    float: right;
+}
+.subtitle{
+    text-align: center;
+}
+.banner {
+    background-image: url("/home/christopher/PhpstormProjects/php-getting-started/web/images/FR-Vazirani-Age-AI-Artificial-Intelligence-2400.jpg");
+    background-repeat:  no-repeat;
+    background-size: auto;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+}
+
+li {
+    float: left;
+}
+
+a {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+}
+.fullborder {
+    border: black solid thin;
+}
+li {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.iframe2 {
+    text-align: center;
+}

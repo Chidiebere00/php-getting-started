@@ -1,0 +1,94 @@
+body {
+    background-color: lightblue;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight: 300;
+    margin: 0;
+}
+
+.wrapper {
+
+
+    z-index: 2;
+}
+
+#header {
+    text-align: Center;
+    background-color: black;
+    color: #fff;
+    padding: 0.25rem;
+}
+
+#container p{
+
+    margin: 0 3rem;
+    z-index: 2;
+    font-size: 20px;
+}
+#container p1{
+    line-height: 27px;
+    font-size: 40px;
+
+}
+
+
+
+/*.footer {
+    position: absolute;
+    padding: 0 0.5rem;
+    background-color: black;
+    color: #fff;
+    width: 100%;
+    bottom: 0;
+}
+
+.footer :nth-child(2) {
+    text-align: right;
+}
+*/
+.menu {
+    float: right;
+}
+.subtitle{
+    text-align: center;
+}
+.banner {
+    background-image: url("../Images/happy_people.jpg");
+    background-repeat:  no-repeat;
+    background-size: auto;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+}
+
+li {
+    float: left;
+    background-color: black;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    background-color: black;
+}
+.fullborder {
+    border: black solid thin;
+}
+ol {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.iframe2{
+    text-align: center;
+}
+
+

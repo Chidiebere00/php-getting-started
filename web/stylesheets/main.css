@@ -18,16 +18,16 @@ body {
     padding: 0.25rem;
 }
 
-#container p{
+.pp{
 
     margin: 0 3rem;
     z-index: 2;
     font-size: 20px;
 }
-#container p1{
+.Title{
     line-height: 27px;
     font-size: 40px;
-
+    text-align: center;
 }
 
 
@@ -50,11 +50,6 @@ body {
 }
 .subtitle{
     text-align: center;
-}
-.banner {
-    background-image: url("../Images/happy_people.jpg");
-    background-repeat:  no-repeat;
-    background-size: auto;
 }
 
 

@@ -31,20 +31,6 @@ body {
 }
 
 
-
-/*.footer {
-    position: absolute;
-    padding: 0 0.5rem;
-    background-color: black;
-    color: #fff;
-    width: 100%;
-    bottom: 0;
-}
-
-.footer :nth-child(2) {
-    text-align: right;
-}
-*/
 .menu {
     float: right;
 }
@@ -85,5 +71,4 @@ ol {
 .iframe2{
     text-align: center;
 }
-
 
